@@ -1,4 +1,4 @@
-## Bemvindoaomeurepositorio 💙
+## Bem vindo ao meu repositorio 💙
 
 **Meu nome e igor, sou aluno**
 
