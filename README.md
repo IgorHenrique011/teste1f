@@ -3,7 +3,7 @@
 **Meu nome e igor, sou aluno**
 
 estudo na escola **Manley Lane**
-CIdade de São Roque
+Cidade de São Roque
 
 ### obrigado por me visitar ###
 
